@@ -1,0 +1,5 @@
+C:\Users\barretwu\Documents\Visual Studio 2013\Projects\CarSalePlatform\CarSalePlatform\bin\Debug\CarSalePlatform.dll
+C:\Users\barretwu\Documents\Visual Studio 2013\Projects\CarSalePlatform\CarSalePlatform\bin\Debug\CarSalePlatform.pdb
+C:\Users\barretwu\Documents\Visual Studio 2013\Projects\CarSalePlatform\CarSalePlatform\obj\Debug\CarSalePlatform.csprojResolveAssemblyReference.cache
+C:\Users\barretwu\Documents\Visual Studio 2013\Projects\CarSalePlatform\CarSalePlatform\obj\Debug\CarSalePlatform.dll
+C:\Users\barretwu\Documents\Visual Studio 2013\Projects\CarSalePlatform\CarSalePlatform\obj\Debug\CarSalePlatform.pdb
