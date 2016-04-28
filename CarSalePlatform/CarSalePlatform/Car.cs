@@ -8,16 +8,17 @@ namespace CarSalePlatform
 {
     public class Car
     {
-		public String Name { get; set; }
-		public decimal Length { get; set; }
-		public decimal Width { get; set; }
-		public decimal Price { get; set; }
-		public void Drive()
+		public Car(string name)
 		{
-			for (int i = 0; i < 30; i++)
-			{
-				System.Threading.Thread.Sleep(1000);
-			}
+			Name = name;
+		}
+
+		public String Name { get; set; }
+
+
+		public string Drive()
+		{
+			return Name + "is Driving";
 		}
     }
 }
