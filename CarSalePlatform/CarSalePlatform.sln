@@ -7,8 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarSalePlatform", "CarSaleP
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "build", "build", "{9E0A216F-F341-493F-8859-36603F95F4DC}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\Desktop\octokit.net-0.11.0-delete\build.cmd = ..\..\..\..\Desktop\octokit.net-0.11.0-delete\build.cmd
+		..\..\..\Desktop\octokit.net-0.11.0-delete\build.cmd = ..\..\..\Desktop\octokit.net-0.11.0-delete\build.cmd
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UT", "UT\UT.csproj", "{686D11BE-4851-45B0-A05E-A64B419ABDEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{3BC41A20-C3D3-4C36-8909-C1C54B191DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BC41A20-C3D3-4C36-8909-C1C54B191DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BC41A20-C3D3-4C36-8909-C1C54B191DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{686D11BE-4851-45B0-A05E-A64B419ABDEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{686D11BE-4851-45B0-A05E-A64B419ABDEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{686D11BE-4851-45B0-A05E-A64B419ABDEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{686D11BE-4851-45B0-A05E-A64B419ABDEB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
