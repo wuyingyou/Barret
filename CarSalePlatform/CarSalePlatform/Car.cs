@@ -18,7 +18,7 @@ namespace CarSalePlatform
 
 		public string Drive()
 		{
-			return Name + "is Driving";
+			return Name + " is driving";
 		}
     }
 }
